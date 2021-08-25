@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="page1.css">
+</head>
+
+<body>
+
+
+    <div class="container">
+        <h1>Cours de Technicien Specialisé de Réseau Informatique</h1>
+        <h2>Semestre 3</h2>
+        <button class="btn btn1"><a href="Architecturecours.html">Architecture et fonctionnement d’un Réseau
+                Informatique</a></button>
+        <button class="btn btn2"><a href="Diagnostique.html"> Notions de mathématiques appliquées à
+                l’informatique</a></button>
+        <button class="btn btn3"> <a href="instalationdeposteinformatiquz.html"> Installation d’un poste informatiquee</a></button>
+        <button class="btn btn4"><a href="configurationhtml.html">Systéme D'exploitation Open Source</a> </button>
+        <button class="btn btn1"><a href="programationstructuré.html">Techniques de programmation
+                structurée</a></button>
+        <button class="btn btn2"><a href="gestion_de_temps.html">Gestion du temps</a> </button>
+        <button class="btn btn3"><a href="assitancet.html">Production De Document</a></button>
+    </div>
+
+</body>
+
+</html>
